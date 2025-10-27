@@ -1,7 +1,13 @@
 {
   "name": "atlas-guide",
-  "version": "2.2.10",
+  "version": "2.2.10-lineaje-01",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "description": "Atlas is living style-guides & pattern library static site generator with extensive CSS monitoring and components info that could be used virtually with any scss/css project",
   "keywords": [
     "styleguide",
@@ -78,7 +84,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dimanech/atlas-guide.git"
+    "url": "https://github.com/lineaje-labs-gos/atlas-guide"
   },
   "author": "Nechepurenko D.",
   "snyk": true
